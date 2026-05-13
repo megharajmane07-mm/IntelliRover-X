@@ -29,7 +29,12 @@ An ESP32-based intelligent navigation rover designed for smart movement, obstacl
 - Hardware-Software Integration
 
 ## 📸 Project Preview
-(Add images here later)
+
+<img width="1400" height="1120" alt="MODEL IMAGE" src="https://github.com/user-attachments/assets/3ad795ee-ff17-4f4e-8327-b52d0169cc76" />
+<img width="1388" height="1132" alt="IntelliRover" src="https://github.com/user-attachments/assets/d9052a9a-821a-4271-b76a-2aeee4297b80" />
 
 ## 🎥 Demo
-(Upload video link later)
+
+https://github.com/user-attachments/assets/06bef63d-3ee6-4c78-9803-8f50849f6c77
+
+
